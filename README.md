@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Dashboard
+# 📊 Power BI Mobile Sales Dashboard
 
 ## Overview  
 This Power BI dashboard provides a comprehensive analysis of sales, revenue, profit, and distribution metrics across various brands, operators, and regions. With an interactive slicer panel and visually appealing dark-themed UI, it enables users to gain valuable insights efficiently.

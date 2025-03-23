@@ -14,10 +14,10 @@ This Power BI dashboard provides a comprehensive analysis of sales, revenue, pro
 
 ## 📷 Screenshots  
 ### 📌 Main Dashboard  
-![Main Dashboard](relative/path/to/dashboard-image.jpg)  
+![Main Dashboard](https://github.com/Charancherry5/Mobile_Sales_PBI/blob/main/Home_zoom.png)  
 
 ### 🎛 Slicer Panel  
-![Slicer Panel](relative/path/to/slicer-panel-image.jpg)  
+![Slicer Panel](https://github.com/Charancherry5/Mobile_Sales_PBI/blob/main/with%20slicers.png)  
 
 ## 🛠 How to Use  
 1. Open the Power BI report (.pbix file).  
